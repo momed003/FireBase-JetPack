@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186173139060",
+    "project_id": "fir-app-d325c",
+    "storage_bucket": "fir-app-d325c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186173139060:android:528324ec762a4b97e0c921",
+        "android_client_info": {
+          "package_name": "com.learn.jetPackCompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5wYvoAItNpIWZWBrbS7snyleMZ3xb3Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
