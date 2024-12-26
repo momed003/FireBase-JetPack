@@ -1,4 +1,5 @@
 # FireBase-JetPack
+## Este projecto e  uma exemplificação do REALTIME DATABASE, em caso de duvida avoce pode arir uma issue e compartilhar comigo.:)
 -----------------------Configure o ambiente para conectar ao fireBase--------------------------
 1-Abra o android studio (particularmente o seu projecto)
 2- no menu superior, posicione o cursor sobre a opção "TOOL"
